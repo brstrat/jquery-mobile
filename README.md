@@ -1,3 +1,5 @@
+Note: brs dev branch created from baseline commit 1981b3f5ec22675ae47df8f0bdf9622e7780e90e 
+
 jQuery Mobile Framework
 =======================
 [Official Site: http://jquerymobile.com](http://jquerymobile.com)
